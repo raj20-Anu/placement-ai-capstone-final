@@ -28,8 +28,9 @@ This project demonstrates practical use of:
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
----
 ```
+
+---
 
 ## ▶ Project Link
 

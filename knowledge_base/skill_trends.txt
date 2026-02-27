@@ -1,0 +1,6 @@
+Trending placement skills:
+- Python
+- Machine Learning
+- Generative AI
+- RAG pipelines
+- System design basics

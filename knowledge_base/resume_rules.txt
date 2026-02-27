@@ -1,0 +1,5 @@
+A good placement resume should:
+- Clearly mention programming languages
+- Highlight projects with impact
+- Use ATS-friendly keywords
+- Avoid long paragraphs
